@@ -15,7 +15,7 @@
 7. sc start ExternalStartDriver
 8. PalGuard.exe를 실행해 줍니다.
 
-이제 부터 설정을 끝났고 앞으로 Palworld shipping.exe 가 실행 될때마다 자동적으로 ExternalAnticheat 드라이버가 올라갑니다.
+이제 부터 기본적인 설정은 끝났고 앞으로 Palworld shipping.exe 가 실행 될때마다 자동적으로 ExternalAnticheat 드라이버가 올라갑니다.
 만약 `sc start ExternalStartDriver`  명령어를 일일히 컴퓨터가 켜질때 마다 치고 싶지 않다면, 즉 컴퓨터가 켜질때 마다 ExternalAnticheatStart 를 자동으로 로드 시키고 싶다면
 sc create 명령어를 사용할때 뒤에 `start= auto` 옵션을 추가하면 됩니다.
 
