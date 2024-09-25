@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExternalAnticheatStart", "ExternalAnticheatStart\ExternalAnticheatStart.vcxproj", "{37510CF4-1C31-4856-83BA-5C848BA2234C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37510CF4-1C31-4856-83BA-5C848BA2234C}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{37510CF4-1C31-4856-83BA-5C848BA2234C}.Debug|ARM64.Build.0 = Debug|ARM64
+		{37510CF4-1C31-4856-83BA-5C848BA2234C}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{37510CF4-1C31-4856-83BA-5C848BA2234C}.Debug|x64.ActiveCfg = Debug|x64
+		{37510CF4-1C31-4856-83BA-5C848BA2234C}.Debug|x64.Build.0 = Debug|x64
+		{37510CF4-1C31-4856-83BA-5C848BA2234C}.Debug|x64.Deploy.0 = Debug|x64
+		{37510CF4-1C31-4856-83BA-5C848BA2234C}.Release|ARM64.ActiveCfg = Release|ARM64
+		{37510CF4-1C31-4856-83BA-5C848BA2234C}.Release|ARM64.Build.0 = Release|ARM64
+		{37510CF4-1C31-4856-83BA-5C848BA2234C}.Release|ARM64.Deploy.0 = Release|ARM64
+		{37510CF4-1C31-4856-83BA-5C848BA2234C}.Release|x64.ActiveCfg = Release|x64
+		{37510CF4-1C31-4856-83BA-5C848BA2234C}.Release|x64.Build.0 = Release|x64
+		{37510CF4-1C31-4856-83BA-5C848BA2234C}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BCCF261-1AF6-4E7D-98E3-D120910B2FC4}
+	EndGlobalSection
+EndGlobal
